@@ -1,7 +1,10 @@
 
 # TockyDevelopment: Multidimensional Analysis of Flow Cytometric Fluorescent Timer Data
 
+<a href="https://monotockylab.github.io/TockyDevelopment/">
 <img src="vignettes/assets/ButterflyDevelopment.png" align="center"   width=95%>
+</a>
+
 
 **Author:** Dr. Masahiro Ono  
 **Date:** 27 November 2024
@@ -36,7 +39,7 @@ The **TockyDevelopment** package offers functions for analyzing the temporal dyn
 
 ## Availability
 
-- **TockyDevelopment** is available at GitHub: [TockyDevelopment](https://github.com/MonoTockyLab/TockyDevelopment)
+- **TockyDevelopment** is available at GitHub: [TockyDevelopment](https://github.com/MonoTockyLab/TockyDevelopment).
 
 
 ## Package Documentation
