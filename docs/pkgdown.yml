@@ -3,7 +3,7 @@ pkgdown: 2.1.0
 pkgdown_sha: ~
 articles:
   multidimensionalTocky: multidimensionalTocky.html
-last_built: 2024-11-27T14:55Z
+last_built: 2024-11-27T14:57Z
 urls:
   reference: https://MonoTockyLab.github.io/TockyDevelopment/reference
   article: https://MonoTockyLab.github.io/TockyDevelopment/articles
