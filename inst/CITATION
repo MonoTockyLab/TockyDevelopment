@@ -1,0 +1,17 @@
+citHeader("To cite TockyDevelopment in publications, use:")
+
+citEntry(
+  entry = "Article",
+  title = "A Multidimensional Toolkit for Elucidating Temporal Trajectories in Cell Development In Vivo",
+  author = "Masahiro Ono and Tessa Crompton",
+  journal = "Development",
+  year = 2024,
+  volume = "",
+  number = "",
+  pages = "",
+  doi = "",
+  url = "",
+  textVersion = "Masahiro Ono and Tessa Crompton (2024). A Multidimensional Toolkit for Elucidating Temporal Trajectories in Cell Development In Vivo. Development.",
+  header = "To cite the TockyDevelopment package in publications use:",
+  note = "Please also cite the package version you used as it can considerably aid reproducibility. For an exact version reference, please consult the DESCRIPTION file of the TockyDevelopment package."
+)
