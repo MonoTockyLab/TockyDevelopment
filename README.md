@@ -18,7 +18,7 @@ The **TockyDevelopment** package provides a suite of methods for the integrative
 
 The **TockyDevelopment** package offers functions for analyzing the temporal dynamics of developing cells during development, utilizing Fluorescent Timer protein reporters, cross-analyzing Timer data and multidimensional marker expression profiles. The package enables identification of time-dependent trajectories using Fluorescent Timer data.
 
-1. **Integrative Analysis with TockyRDA**
+1. **Integrative Analysis with TockyCCA**
 
    - Implements TockyCCA, a variant of Canonical Correspondence Analysis (CCA) optimized for multidimensional flow cytometric data involving Fluorescent Timer proteins.
    - Allows integrative analysis of marker expression profiles and Timer progression without centering the environmental variables (Timer Angle and Intensity), preserving their directional and magnitude properties.
