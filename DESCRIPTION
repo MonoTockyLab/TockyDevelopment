@@ -11,7 +11,7 @@ Imports: igraph, ggplot2, RColorBrewer, bigmemory, biganalytics, vegan, TockyLoc
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 Description: This package offers functions for analyzing the temporal dynamics of developing cells during development, utilizing Fluorescent Timer protein reporters, cross-analyzing Timer data and multidimensional marker expression profiles. The package enables identification of time-dependent trajectories using Fluorescent Timer data.
-URL: https://github.com/MonoTockyLab/TockyDevelopment
+URL: https://github.com/MonoTockyLab/TockyDevelopment, https://MonoTockyLab.github.io/TockyDevelopment
 BugReports: https://github.com/MonoTockyLab/TockyDevelopment/issues
 Encoding: UTF-8
 RoxygenNote: 7.3.2
