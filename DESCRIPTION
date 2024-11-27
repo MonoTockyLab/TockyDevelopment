@@ -1,0 +1,18 @@
+Package: TockyDevelopment
+Version: 0.1.0
+Date: 2024-11-19
+Title: Multidimensional Analysis and Pathfinding Analysis of High-Dimensional Flow Cytometric Fluorescent Timer Data
+Authors@R: c(person("Masahiro", "Ono", role = c("aut", "cre"),
+                     email = "m.ono@imperial.ac.uk", comment = c(OCRID="0000-0002-9284-7326")))
+Author: Masahiro Ono [aut, cre]
+Maintainer: Masahiro Ono  <m.ono@imperial.ac.uk>
+Depends: R (>= 4.2.0), utils, stats, graphics, grDevices, methods
+Imports: igraph, ggplot2, RColorBrewer, bigmemory, biganalytics, vegan, TockyLocus, TockyPrep
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+Description: This package offers functions for analyzing the temporal dynamics of developing cells during development, utilizing Fluorescent Timer protein reporters, cross-analyzing Timer data and multidimensional marker expression profiles. The package enables identification of time-dependent trajectories using Fluorescent Timer data.
+URL: https://github.com/MonoTockyLab/TockyDevelopment
+BugReports: https://github.com/MonoTockyLab/TockyDevelopment/issues
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+License: Proprietary. All rights reserved.
