@@ -107,7 +107,7 @@ We kindly remind our users that **citing software is as important as citing acad
 
 For additional guidance on citation practices and maintaining research integrity, we recommend visiting the [Committee on Publication Ethics (COPE)](https://publicationethics.org/), which offers valuable resources and support for adhering to ethical practices in scholarly publishing.
 
-## 6. The Ono Lab (MonoTockyLab)
+## The Ono Lab (MonoTockyLab)
 
 <img src="vignettes/assets/MonoLab.jpg" alt="MonoTockyLab" align="center" width="40%">
 
@@ -121,7 +121,7 @@ In 2008, Dr. Ono initiated his pioneering transition from molecular immunology t
 
 Tocky employs the Fluorescent Timer protein to analyze the temporal dynamics of cell activities and development *in vivo*. His lab integrates molecular biology, immunology, and computational analysis to develop novel research tools, thereby enhancing the understanding of immune cell biology.
 
-## 7. Contact and More
+## Contact and More
 
 
 **Email**: 
