@@ -1,10 +1,8 @@
-
 # TockyDevelopment: Multidimensional Analysis of Flow Cytometric Fluorescent Timer Data
 
 <a href="https://monotockylab.github.io/TockyDevelopment/">
 <img src="vignettes/assets/ButterflyDevelopment.png" align="center"   width=95%>
 </a>
-
 
 **Author:** Dr. Masahiro Ono  
 **Date:** 27 November 2024
@@ -15,7 +13,7 @@ Fluorescent Timer proteins change their emission spectra over time and serve as 
 
 The **TockyDevelopment** package provides a suite of methods for the integrative analysis of multidimensional flow cytometry data involving Fluorescent Timer proteins. It enables the identification of time-dependent trajectories based on the progression of Timer maturation. The package is particularly suitable for analyzing developing cells using Fluorescent Timer reporter systems. Prototype analyses are based on thymic T cell development using Nr4a3-Tocky mice.
 
-
+Link to our paper [A multidimensional toolkit for elucidating temporal trajectories in cell development in vivo](https://journals.biologists.com/dev/article/doi/10.1242/dev.204255/363265/A-multidimensional-toolkit-for-elucidating?searchresult=1).
 
 ## Key Features
 
@@ -36,11 +34,9 @@ The **TockyDevelopment** package offers functions for analyzing the temporal dyn
    - Employs a novel pathfinding algorithm, **Dijkstra-Tocky**, to identify time-dependent trajectories based on network analysis outputs.
    - Pinpoints developmental paths by finding the shortest paths in the network, representing the most probable sequences of cellular transitions.
 
-
 ## Availability
 
 - **TockyDevelopment** is available at GitHub: [TockyDevelopment](https://github.com/MonoTockyLab/TockyDevelopment).
-
 
 ## Package Documentation
 
@@ -68,7 +64,7 @@ The TockyDevelopment code is available on GitHub without a standard licensing op
 
 If you use the **TockyDevelopment** package or any of its components in a scientific publication or in any other public work, please cite it as follows:
 
-Masahiro Ono and Tessa Crompton (2024). *A Multidimensional Toolkit for Elucidating Temporal Trajectories in Cell Development In Vivo.* *Development*. 
+Masahiro Ono and Tessa Crompton (2024). [*A Multidimensional Toolkit for Elucidating Temporal Trajectories in Cell Development In Vivo.* *Development*](A multidimensional toolkit for elucidating temporal trajectories in cell development in vivo).
 
 **BibTeX Entry:**
 
@@ -82,7 +78,6 @@ Masahiro Ono and Tessa Crompton (2024). *A Multidimensional Toolkit for Elucidat
 }
 ```
 
-
 ### License
 
 **Proprietary License**: All rights reserved. The TockyDevelopment package is available under a proprietary license. Use, modification, or distribution of the software for any purpose requires explicit permission. For licensing options or to request permissions, please contact [Masahiro Ono](mailto:m.ono@imperial.ac.uk).
@@ -90,7 +85,6 @@ Masahiro Ono and Tessa Crompton (2024). *A Multidimensional Toolkit for Elucidat
 ### Warranty
 
 This software is distributed WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
 
 #### Why Citation Is Important
 
@@ -119,40 +113,31 @@ Dr. Ono is **the creator and developer of Tocky**. He innovated the transgenic a
 
 In 2008, Dr. Ono initiated his pioneering transition from molecular immunology to becoming an **Integrated Experimental and Computational Immunologist**, demonstrating his visionary leadership and pioneering spirit in the development and application of multidimensional analysis and computational methods to address experimental and immunological problems. Tocky represents one of the fusion technologies that Dr. Ono has both created and developed.
 
-Tocky employs the Fluorescent Timer protein to analyze the temporal dynamics of cell activities and development *in vivo*. His lab integrates molecular biology, immunology, and computational analysis to develop novel research tools, thereby enhancing the understanding of immune cell biology.
+Tocky employs the Fluorescent Timer protein to analyze the temporal dynamics of cell activities and development _in vivo_. His lab integrates molecular biology, immunology, and computational analysis to develop novel research tools, thereby enhancing the understanding of immune cell biology.
 
 ## Contact and More
 
-
-**Email**: 
+**Email**:
 <a href="mailto:m.ono@imperial.ac.uk">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email" width="10%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email" width="10%">
 
 </a>
 
-
 **Personal Homepage**:
 <a href="http://monotockylab.github.io">
-  <img src="vignettes/assets/MonoLab.jpg" alt="MonoTockyLab Homepage" align="center" width="30%"/>
+<img src="vignettes/assets/MonoLab.jpg" alt="MonoTockyLab Homepage" align="center" width="30%"/>
 </a>
 
 **GitHub**:
 <a href="https://github.com/MonoTockyLab">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" align="center" width="70" height="70"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" align="center" width="70" height="70"/>
 </a>
 
 **Twitter**:
 <a href="https://twitter.com/MonoTockyLab">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" align="center" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" align="center" width="50" height="50"/>
 </a>
 
 **Professional Homepage**: [Imperial College London - Masahiro Ono](https://www.imperial.ac.uk/people/m.ono)
 
-
-
-
 <img src="vignettes/assets/TockyDevelopment_logo.jpg" align="center"   width=80%>
-
-
-
-

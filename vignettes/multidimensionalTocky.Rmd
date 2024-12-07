@@ -20,6 +20,8 @@ knitr::include_graphics('assets/ButterflyDevelopment.png')
 
 The **TockyDevelopment** package (@Ono2024TockyDevelopment) provides an integrated workflow for studies in developmental cell biology and related areas, including thymus biology. It enables balanced analysis of multidimensional marker expression data (marker profiles) and Timer fluorescence, revealing temporal dynamics of developing cells and identifying temporal developmental trajectories in a data-oriented manner.
 
+Read our paper [here](https://journals.biologists.com/dev/article/doi/10.1242/dev.204255/363265/A-multidimensional-toolkit-for-elucidating?searchresult=1)
+
 In this vignette, we will guide you through the key steps of the TockyDevelopment analysis pipeline:
 
 1. Data Preprocessing
